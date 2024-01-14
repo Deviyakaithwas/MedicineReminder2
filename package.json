@@ -1,0 +1,19 @@
+{
+  "name": "medicine-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script":"dev start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "Express": "^1.0.1",
+    "mongodb": "^6.3.0",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
